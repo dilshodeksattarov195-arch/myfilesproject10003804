@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordercarse",
+        "uuid": 7870476,
+        "checksum": "agrof"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
